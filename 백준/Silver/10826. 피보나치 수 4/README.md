@@ -30,3 +30,7 @@
 
  <p>첫째 줄에 n번째 피보나치 수를 출력한다.</p>
 
+### 추가
+
+- RecursionError : 주된 이유는 Python이 정한 최대 재귀 깊이보다 재귀의 깊이가 더 깊어질 때 발생한다.
+- sys.setrecursionlimit() : Python이 정한 최대 재귀 깊이를 변경할 수 있다.
