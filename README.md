@@ -19,4 +19,4 @@
 
 ### 문제 분석하기
 #### 2월 1주차
-- []()
+- [동전 1](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/2293.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%851)
