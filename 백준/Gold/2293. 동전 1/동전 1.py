@@ -1,11 +1,12 @@
 n, k = map(int, input().split())
-c = []
-dp = [0 for i in range(k + 1)]
+coins = [int(input()) for _ in range(n)]
+dp = [0] * (k + 1)
 dp[0] = 1
-for i in range(n):
-    c.append(int(input()))
-for i in c:
-    for j in range(1, k + 1):
-        if j - i >= 0:
-            dp[j] += dp[j - i]
+
+for coin in coins:
+    for i in range(coin, k + 1):
+        if i - coin < 0:
+            continue
+        dp[i] += dp[i - coin]
+        
 print(dp[k])
