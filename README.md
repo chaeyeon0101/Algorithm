@@ -21,4 +21,4 @@
 #### 2월 1주차
 - [동전 1](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/2293.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%851)
 #### 2월 2주차
-- | [계단 오르기](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0) | [오목]()
+- | [계단 오르기](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0) | [오목]
