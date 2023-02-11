@@ -10,4 +10,4 @@
 #### 23.02.10
 - [오목](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2615.%E2%80%85%EC%98%A4%EB%AA%A9)
 #### 23.02.11
-- [부분 문자열](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/16916.%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4)
+- [부분 문자열](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/16916.%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4) | [카드 구매하기](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/11052.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0)
