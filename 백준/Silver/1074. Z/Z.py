@@ -1,22 +1,21 @@
-N, r, c = map(int, input().split())
+n, r, c = map(int, input().split())
 
-ans = 0
+answer = 0
 
-while N != 0:
-
-	N -= 1
-
-	if r < 2 ** N and c < 2 ** N:
-		ans += ( 2 ** N ) * ( 2 ** N ) * 0
-	elif r < 2 ** N and c >= 2 ** N: 
-		ans += ( 2 ** N ) * ( 2 ** N ) * 1
-		c -= ( 2 ** N )
-	elif r >= 2 ** N and c < 2 ** N: 
-		ans += ( 2 ** N ) * ( 2 ** N ) * 2
-		r -= ( 2 ** N ) 
-	else:
-		ans += ( 2 ** N ) * ( 2 ** N ) * 3
-		r -= ( 2 ** N )
-		c -= ( 2 ** N )
+while n > 0:
+    n -= 1
     
-print(ans)
+    if r < 2 ** n and c < 2 ** n:
+        answer += (2 ** n) * (2 ** n) * 0
+    elif r < 2 ** n and c >= 2 ** n:
+        answer += (2 ** n) * (2 ** n) * 1
+        c -= (2 ** n)
+    elif r >= 2 ** n and c < 2 ** n:
+        answer += (2 ** n) * (2 ** n) * 2
+        r -= (2 ** n)
+    else:
+        answer += (2 ** n) * (2 ** n) * 3
+        r -= (2 ** n)
+        c -= (2 ** n)
+
+print(answer)
