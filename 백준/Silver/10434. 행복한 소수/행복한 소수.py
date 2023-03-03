@@ -1,5 +1,4 @@
 import sys
-import math
 input = sys.stdin.readline
 p = int(input())
 prime_num = [True] * 10001
