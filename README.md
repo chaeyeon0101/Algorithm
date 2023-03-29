@@ -16,9 +16,3 @@
 #### 1월 4주차
 - 다이나믹 프로그래밍 : [돌 게임](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/9655.%E2%80%85%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84) | [피보나치 수4](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/10826.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98%E2%80%854) | [01타일](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1904.%E2%80%8501%ED%83%80%EC%9D%BC) | [연속합](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1912.%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9) | [LCS]
 - 최단 경로 : [경로 찾기](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/11403.%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0) | [플로이드](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/11404.%E2%80%85%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C) | [최단경로](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/1753.%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C) | [최소비용 구하기](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/1916.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0) | [특정 거리의 도시 찾기](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/18352.%E2%80%85%ED%8A%B9%EC%A0%95%E2%80%85%EA%B1%B0%EB%A6%AC%EC%9D%98%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EC%B0%BE%EA%B8%B0)
-
-### 문제 풀고 분석하기
-#### 2월 1주차
-- [동전 1](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/2293.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%851)
-#### 2월 2주차
-- | [계단 오르기](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0) | [오목](https://github.com/chaeyeon0101/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2615.%E2%80%85%EC%98%A4%EB%AA%A9)
